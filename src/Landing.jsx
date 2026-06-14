@@ -10,7 +10,7 @@ export default function HomePage() {
 
   const products = [
     { id: 1, name: "Fresh Apple", price: 99, unit: "/kg", category: "fruits", image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=800" },
-    { id: 2, name: "Banana (Dozen)", price: 59, unit: "/kg", category: "fruits", image: "./public/banana.png" },
+    { id: 2, name: "Banana (Dozen)", price: 59, unit: "/kg", category: "fruits", image: "https://jooinn.com/c/background/360/" },
     { id: 3, name: "Fresh Milk 1L", price: 68, unit: "", category: "dairy", image: "milk.png" },
     { id: 4, name: "Whole Wheat Bread", price: 45, unit: "", category: "bakery", image: "whole_wheat_bread_image.png" },
     { id: 5, name: "Egg ", price: 60, unit: "6", category: "dairy", image: "eggs.png" },
