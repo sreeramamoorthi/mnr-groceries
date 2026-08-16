@@ -5,6 +5,7 @@ import CartPage from './Cart';
 import AboutPage from './About';
 import SignupPage from './Signup';
 
+
 function App() {
   return (
      <Router>
@@ -16,7 +17,9 @@ function App() {
         <Route path="/signup" element={<SignupPage />} />
       </Routes>
      </Router>
+ 
   
+
 
     
   );
